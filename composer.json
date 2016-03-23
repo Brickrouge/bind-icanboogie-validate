@@ -30,6 +30,7 @@
 
 	"extra": {
 		"icanboogie": {
+			"config-path": "config",
 			"locale-path": "locale"
 		}
 	}
