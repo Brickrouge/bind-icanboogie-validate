@@ -11,7 +11,7 @@
 
 namespace Brickrouge\Binding\ICanBoogieValidate;
 
-use Brickrouge\Validate\ErrorCollection;
+use ICanBoogie\ErrorCollection;
 use ICanBoogie\Validate\Reader\ArrayAdapter;
 use ICanBoogie\Validate\Validation;
 use ICanBoogie\Validate\ValidatorProvider;
